@@ -1,7 +1,5 @@
-# Rede para Instituição Acadêmica (Simulação)
+# simulacao-rede
 Projeto de simulacao de rede pra **faculdade** usando Cisco Packet Tracer
-
-**Disciplina:** Administração de Redes
 
 ## Objetivo
 
